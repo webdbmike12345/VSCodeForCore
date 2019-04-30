@@ -1,4 +1,8 @@
 body {
-  font-size: 1.0em;
+  font-size: 1.1m;
+  font-family: sans-serif;
+}
+
+.pull-left {
   font-family: sans-serif;
 }
